@@ -1,5 +1,5 @@
 # Sustainable AI Emissions Forecasting & Green Cloud Analysis
-By Avinaash Devasena Ganesh
+By Avinaash Devasena Ganesh<br>
 (Data Science | Sustainable Technology | Responsible AI)
 
 This project explores the environmental impact of AI and cloud workloads using hardware lifecycle emissions, energy consumption data, and grid-level electricity demand.
